@@ -2,7 +2,7 @@
 
 **Nuh 1.0** — Intelligent WhatsApp bot powered by Groq API, built with Spring Boot, Node.js, and Python. Deployed on AWS EC2.
 
-**Owner:** Sameer Shaik | **Company:** N.S (Nadeem Shaik) | **Region:** AWS Sydney ap-southeast-2
+**Owner:** Sameer Shaik | **Company:** N.S (N.Shaik) personal  | **Region:** AWS Sydney ap-southeast-2
 
 ## Architecture
 - Node.js + Baileys — WhatsApp message handler
