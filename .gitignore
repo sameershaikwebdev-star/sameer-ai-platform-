@@ -1,0 +1,11 @@
+*.pem
+*.txt
+node_modules/
+auth/
+__pycache__/
+target/
+.venv/
+*.zip
+*.log
+.env
+application.properties

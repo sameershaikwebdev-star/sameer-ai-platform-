@@ -1,0 +1,4 @@
+Host sameer-ec2
+    HostName 3.104.66.117
+    User ubuntu
+    IdentityFile ~/Downloads/sameer-nuh-key.pem

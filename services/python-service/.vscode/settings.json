@@ -1,0 +1,8 @@
+{
+    "python.analysis.ignore": ["*"],
+    "pylance.reportMissingImports": "none",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportMissingModuleSource": "none"
+    }
+}
