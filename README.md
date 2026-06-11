@@ -20,3 +20,13 @@ docker compose logs -f whatsapp-bot
 
 ## Docs
 See the [docs/](docs/) folder for full guides.
+
+---
+
+## 💬 Try Nuh AI on WhatsApp
+
+Scan the QR or message directly:
+
+**WhatsApp:** [+91 94412 56250](https://wa.me/919441256250)
+
+Click the link or save the number and send any message to start chatting with Nuh AI!
